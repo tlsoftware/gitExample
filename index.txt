@@ -3,3 +3,4 @@ Con esa leccion comenzamos el curso de Git en Styde!
 Pero no podemos dejar los agradecimientos de lado...
 Si queremos agregar texto no es necesario realizar otro commit solo para esto!!! Podemos usar el comando
 git commit --amend -m 'Con el nuevo mensaje del commit'
+Texto Agregado a Index.php, pero no debe aparecer
