@@ -1,2 +1,5 @@
 Agregar texto al file folder path
 Se agrego otra linea al archivo
+
+
+Database Conecction master .php Agregado en el Master 
